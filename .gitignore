@@ -1,0 +1,15 @@
+results
+upload_data
+
+migrations
+.idea
+__pycache__
+instance/
+.webassets-cache
+*.log
+db.sqlite3
+db.sqlite3-journal
+.env
+.venv
+env/
+venv/
